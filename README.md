@@ -1,4 +1,4 @@
-# hello_world2
+# hello world
 
 A new Flutter application.
 
